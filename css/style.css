@@ -118,7 +118,8 @@
     }
     aside.visible {
         width: 300px;
-        padding: 50px 5% 50px 75%;
+        margin: 0 5% 0 75%;
+        padding: 50px 0 50px 0;
         font-size: 90%;
         position: absolute;
         visibility: visible;
