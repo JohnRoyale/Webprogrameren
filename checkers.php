@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>TIC TAC TOE</title>
+	<title>CHECKERS</title>
 	<link href="css/style.css" rel="stylesheet" type="text/css">
 	<link href="css/font-awesome.css" rel="stylesheet">
 	<link href="http://fonts.googleapis.com/css?family=Ubuntu:regular,bold&subset=Latin" rel="stylesheet" type="text/css">
@@ -31,9 +31,7 @@
             <i aria-hidden="true" class="fa fa-question-circle fa-2x"></i></a>
         </div> 
 	</section><!-- icons -->
-	<aside><p>Boter-kaas-en-eieren, ook wel "oo maal oo" of "kruisje rondje", is een eenvoudig spel voor twee spelers. Boter-kaas-en-eieren is in het Nederlands verreweg de meest gebruikte naam voor het spel.[bron?] Het spel wordt met een potlood of met een pen op papier gespeeld. Het spel is ook op een computer te spelen, soms zelfs bij een chatprogramma, zoals MSN Messenger. Bordspellen bestaan ook, maar deze hebben vaak meer een decoratief doel.
-Boter-kaas-en-eieren wordt gespeeld op 3 bij 3 velden. Bij het begin zijn alle velden leeg. De ene speler zet een 'kruis' en de andere speler een 'rondje'. Degene die drie van zijn eigen tekens op een rij heeft (diagonaal, verticaal of horizontaal), heeft gewonnen.
-Iemand die het spel goed genoeg kent, kan ieder spel in een gelijkspel (of gunstiger) laten eindigen, ongeacht wat de tegenstander doet. Zeker voor beginners is het veld in het midden het belangrijkste veld.</p>
+	<aside><p>Dammen is een bordspel. Het bord bestaat uit 100 vakjes, velden genaamd, in 10 rijen van 10, waarbij de velden afwisselend wit en zwart zijn. Er wordt gespeeld met damschijven. Dit zijn ronde schijven (meestal van hout). Voor het spel worden 20 witte en 20 zwarte damschijven gebruikt. Als oorsprong voor dammen geldt het bordspel Alquerque.</p>
     </aside>
     <section id='scoreboard1'>
         <section><p>Player 1</p><p>0</p>
